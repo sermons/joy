@@ -1,8 +1,8 @@
-# reveal-skel
-## A Template for Presentations in [Reveal.js](https://github.com/hakimel/reveal.js/)
+# Rejoice in the Mighty Saviour
+## Lk1:46-55 
 
-[![Build status](https://github.com/sermons/reveal-skel/actions/workflows/build.yml/badge.svg)](https://github.com/sermons/reveal-skel/actions/workflows/build.yml)
-![Dependency check](https://img.shields.io/librariesio/github/sermons/reveal-skel)
+[![Build status](https://github.com/sermons/joy/actions/workflows/build.yml/badge.svg)](https://github.com/sermons/joy/actions/workflows/build.yml)
+![Dependency check](https://img.shields.io/librariesio/github/sermons/joy)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
