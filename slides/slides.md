@@ -6,15 +6,16 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I felt <br/> **forgotten** by God?
+# Have I felt <br/> **forgotten** <br/> by God?
 <!-- .element: class="r-fit-text" -->
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
 ## Magnificat of Mary
-1. My Spirit **Leaps** [(v46-49)](# "ref")
-1. The **Justice** of God [(v49-53)](# "ref")
-1. Remembering **Mercy** [(v54-55)](# "ref")
+1. He **Sees** Us [(v46-48)](# "ref")
+1. He **Works** in Us [(v48-50)](# "ref")
+1. He **Scatters** the Proud [(v51-53)](# "ref")
+1. He **Remembers** Mercy [(v54-55)](# "ref")
 
 >>>
 + Angel Gab to **Zech**:
@@ -28,8 +29,13 @@
   + young woman swept up in
   + confounding, momentus events
 + spoke this powerful, poignant **poem** 
-  + not **eloquence** of Mary, but
-  + wisdom of **HS**
+  + not about **eloquence** of Mary, 
+  + but wisdom of **HS**
++ We think of Mary as **meek**, passive
+  + but she was not **oblivious**
++ Knew significance + **chose** to obey
+  + submit whole life + **body**
++ **Advent**: waiting for the Christ
 
 ---
 My soul **magnifies** the Lord, <br/>
@@ -38,21 +44,13 @@ and my spirit **rejoices** in God my Savior
 [Luke 1:47 (ESV)](# "ref")
 
 >>>
-+ "magn": to make **great**
-  + not that He **needs** our praise
-+ God **is** good
-  + soul **recog** this fact
-  + and **proclaims**
 + Heb **couplets**: rhyming ideas
   + soul + spirit: **whole** essence
-+ mag + **joy**: leap
++ **rejoice**: leap, happy (John in womb)
   + not **hype**, hysteria
   + **response** to what God has done
-+ Lord + **my** Saviour: 
-  + not just Lord of **creation**
-  + but **intervenes** in my life
 + **Why** rejoice?
-  + sentence **continues**
++ Sentence **continues**
   + beyond couplet ("enjambment")
 
 ---
@@ -64,16 +62,42 @@ the **humble** estate of his servant.
 >>>
 + Mary can call God **her** Saviour
   + bc he has **seen** her state
-+ **humble**: brought low
++ "humble estate": **lowness**,
+  + frailty, weakness
 + Mary from no special town/family
-+ but also state of **people** of God
-  + invasion, conquered
-  + under authoritarian rule of Rome
++ also state of **people** of God
+  + conquered **multiple** times
++ under authoritarian rule of **Rome**
+  + rebellion **tried** + failed
 + political leaders **cruel**
   + religious leaders **selfish**
++ Psalmist **cries out** in Ps94:
+
+---
+O Lord, **how long** shall the wicked, <br/>
+how long shall the wicked **exult**?
+
+They kill the **widow** and the **sojourner**, <br/>
+and murder the **fatherless**;
+
+and they say, “The Lord does not **see**; <br/>
+the God of Jacob does not **perceive**.”
+
+[Psalm 94:3,6-7 (ESV)](# "ref")
+
+>>>
 + Does God **see**?  Does He **care**?
++ When it feels like God is **absent**
+  + **evil** + violence flourishes
+  + as in our world **today**
 + 420yrs since Malachi
   + several **generations**!
++ Direct **revelation** of God but
+  + a distant **memory**, myth
+  + **fairy tale** to comfort children
++ Born, **grow up**, live in corrupt world,
+  + grow old, die
+  + all w/o **hearing** from God
 + What happens when God is **silent**?
 
 ---
@@ -92,13 +116,14 @@ but blessed is he who **keeps the law**.
   + since we've heard from God
 + society starts to **fall apart**
   + "the people **perish**"
-+ lose social **cohesion**
++ lose social **cohesion**:
   + tribalism, **nationalism**, strife
 + But we need to **keep** God's law:
   + read, remember, treasure
   + obey, uphold
-+ This is what **Mary** was doing
-  + would have known about **Hagar**:
++ This is what **Mary** did:
+  + continued to be His **servant**
++ She'd have remembered **Hagar**:
 
 ---
 So she called the name <br/>
@@ -118,6 +143,28 @@ I have seen him who **looks after** me.”
 + El-roi: the God who **sees**
 + Mary: God has **looked** on
   + humble estate of servant
+
+---
+<!-- .slide: data-background="white" -->
+# Does God **see** <br/> our despair?
+<!-- .element: class="r-fit-text" -->
+
+>>>
++ God **sees** + cares
++ Do not **despair** at corruption
+  + Do not be **envious** of wicked
++ **Keep** God's Word
+  + **wait** for God's plan
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## Magnificat of Mary
+1. He Sees Us [(v46-48)](# "ref")
+1. **He Works in Us** [(v48-50)](# "ref")
+1. He Scatters the Proud [(v51-53)](# "ref")
+1. He Remembers Mercy [(v54-55)](# "ref")
+
+>>>
 + Not that God's plan would be **easy**:
   + Hagar: sent back to Sarah
   + Mary: social stigma, rl fiancee
@@ -135,19 +182,19 @@ has done **great** things for me,
 [Luke 1:48b-49a (ESV)](# "ref")
 
 >>>
-+ gens afterward will mark this date
 + not bc **Mary's** piety, humility, purity
 + but **God's** mighty power
   + displayed in her life
 + Great things **in** (or to) me
   + not **following** my orders
 + Executing **His** wondrous plan
-  + I'm just **caught up** in it!
+  + We're just **caught up** in it!
 + Addresses Him as **Mighty One**
+  + enjambment flows into next couplet:
 
 ---
-and **holy** is his name,
-And his **mercy** is for those who fear him <br/>
+and **holy** is his name, <br/>
+And his **mercy** is for those who **fear** him <br/>
 from generation to generation.
 
 [Luke 1:49b-50 (ESV)](# "ref")
@@ -159,8 +206,35 @@ from generation to generation.
 + Rl w/us: those who **fear** Him
   + God's power, glory, holiness
   + Our awe, humility, obedience
-+ Pass on **fear** of Lord to next gen
-  + God extends **mercy** to next gen
++ Parallel of "all **gens**"
+  + 48b: recog God's **blessing**
+  + 50: pass on **fear** of Lord
+  + 55: **promises** to all gens
+  + who have **faith** of Abr in Chr
+
+---
+<!-- .slide: data-background="white" -->
+# How have I seen <br/> God's **might** and **mercy** <br/> in my life?
+<!-- .element: class="r-fit-text" -->
+
+>>>
++ Will I pass on **fear** of Lord
+  + to next gen?
++ That they may see the **mercy** of God
++ In what **way** does God show **might**?
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## Magnificat of Mary
+1. He Sees Us [(v46-48)](# "ref")
+1. He Works in Us [(v48-50)](# "ref")
+1. **He Scatters the Proud** [(v51-53)](# "ref")
+1. He Remembers Mercy [(v54-55)](# "ref")
+
+>>>
++ Parallel 49a + 51:
+  + done **great** things in me
+  + done **mighty** things in arm
 
 ---
 He has shown **strength** with his arm;
@@ -219,8 +293,20 @@ for you shall be **hungry**
   + **telling** us what will happen
 + God **displays** strength of His arm
   + accomplish what **man** cannot
-+ No evidence Magnificat **banned** in 
-  + Guatemala or Argentina
+
+---
+he has **brought down** the mighty  <br/>
+from their thrones <br/>
+and **exalted** those of humble estate;
+
+he has **filled** the hungry with good things, <br/>
+and the rich he has sent away **empty**.
+
+[Luke 1:52-53 (ESV)](# "ref")
+
+>>>
++ Urban **myth**: Magnificat **banned** in 
+  + Guatemala and Argentina
 + but its message of **upending** social hier
   + oft-quoted by **revolutionaries**
   + "eat the rich"
@@ -230,12 +316,14 @@ for you shall be **hungry**
 + but **God** in His own plan:
 
 ---
-For Jews demand **signs** and Greeks seek **wisdom**, 
+For Jews demand **signs** <br/>
+and Greeks seek **wisdom**, 
 
 but we preach Christ **crucified**, <br/>
 a **stumbling block** to Jews and **folly** to Gentiles, 
 
-but to those who are **called**, both Jews and Greeks, <br/>
+but to those who are **called**, <br/>
+both Jews and Greeks, <br/>
 Christ the **power** of God and the **wisdom** of God
 
 [1 Corinthians 1:22-24 (ESV)](# "ref")
@@ -249,19 +337,57 @@ Christ the **power** of God and the **wisdom** of God
   + seems like **nonsensical**
 + But when God **calls** us,
   + He grants power to **respond**
-+ recog power + wisdom in cross:
++ recog **power** + **wisdom** in cross:
   + ultimate demonstration of
   + justice + mercy
 
 ---
-## Actions of God (in Lk 1:46-55)
-+ **Looked** on our lowness (v48)
-  + **Done** great things in us (v49)
-+ **Done** mighty things with His arm (v51)
-  + **Scattered** the proud (v51)
-+ **Brought down** / exalted (v52)
-  + **Emptied** / filled (v53)
-+ **Helped** + spoken (v54-55)
+<!-- .slide: data-background="white" -->
+# How has God displayed His **power**?
+<!-- .element: class="r-fit-text" -->
+
+>>>
++ prev Q: might + mercy in my life
++ e.g., answer to prayer, healing
+  + enable me to achieve my goals
++ Not that God doesn't **care** abt that
+  + But we think too **small**
++ **Short-term** goals: what about
+  + **next** illness, job, rl?
++ Lack of **faith**, put God in **box**
++ Mary recog God's **power** in
+  + upending status quo
+  + reorienting world history
++ Christ did it by **humbling** himself
+  + **emptying** himself
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## Magnificat of Mary
+1. He Sees Us [(v46-48)](# "ref")
+1. He Works in Us [(v48-50)](# "ref")
+1. He Scatters the Proud [(v51-53)](# "ref")
+1. **He Remembers Mercy** [(v54-55)](# "ref")
+
+>>>
++ God does see our **struggles**
+  + **injustice** in the world
++ Has **acted** and is **acting** 
+  + Taking us along for the **ride**
++ Those who think themselves **wise**
+  + or **powerful**
++ God can just wipe away
++ And He **intervenes** in our lives
+
+---
+## Actions of God [(Lk 1:46-55)](# "ref")
++ **Looked** on our lowness [(v48)](# "ref")
+  + **Done** great things in us [(v49)](# "ref")
++ **Done** mighty things with His arm [(v51)](# "ref")
+  + **Scattered** the proud [(v51)](# "ref")
++ **Brought down** / exalted [(v52)](# "ref")
+  + **Emptied** / filled [(v53)](# "ref")
++ **Helped** + spoken [(v54-55)](# "ref")
 
 >>>
 + Move from God's **power**
@@ -318,6 +444,17 @@ to Abraham and to his **offspring** forever.
 + His **blessing** + **mercy** are
   + from **gen** to gen forever
 
+---
+<!-- .slide: data-background="white" -->
+# How can I <br/> better **remember** <br/> God's promises?
+<!-- .element: class="r-fit-text" -->
+
+>>>
++ God's **Word**: read, memorise
++ God's **works**: study history, science
+  + hear **stories** from prev gen
++ Take comfort: He remembers **mercy**
+
 ******
 My soul **magnifies** the Lord, <br/>
 and my spirit **rejoices** in God my Savior,
@@ -356,4 +493,7 @@ in **remembrance** of his mercy,
 
 as he spoke to our **fathers**, <br/>
 to Abraham and to his offspring forever
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
 
