@@ -11,11 +11,14 @@
 <!-- .element: class="r-fit-text" -->
 
 ---
+<!-- .slide: <%= bg("unsplash-KXtMGheovdw-cave.jpg") %> -->
 ## Prelude to Christ's Birth
 + Annunciation of **John** [(1:5-25)](# "ref")
 + Annunciation of **Jesus** [(1:26-38)](# "ref")
 + **Magnificat** of Mary [(1:39-56)](# "ref")
 + Birth of **John** [(1:57-80)](# "ref")
+
+[Iswanto Arif](https://unsplash.com/photos/KXtMGheovdw "caption")
 
 >>>
 + Angel Gab to **Zech**:
@@ -343,7 +346,7 @@ and the rich he has sent away **empty**.
 + but **God** in His own plan:
 
 ---
-<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
+<!-- .slide: <%= bg("unsplash--wT0iS-TSZM-Anterne_cross.jpg") %> -->
 For Jews demand **signs** <br/>
 and Greeks seek **wisdom**, 
 
@@ -355,7 +358,7 @@ both Jews and Greeks, <br/>
 Christ the **power** of God and the **wisdom** of God
 
 [1 Corinthians 1:22-24 (ESV)](# "ref")
-[Aaron Burden](https://unsplash.com/photos/o--lefJNe0w "caption")
+[Lac d'Anterne, France.  Hugues de Buyer-Mimeure](https://unsplash.com/photos/-wT0iS-TSZM "caption")
 
 >>>
 + if looking for **power**:
