@@ -11,22 +11,31 @@
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
-## Mary's Magnificat
-1. My Spirit Leaps [(v46-48)](# "ref")
-1. The Works of God to Me [(v48-49)](# "ref")
-1. The Holiness and Mercy of God [(v49-50)](# "ref")
-1. His Arm that Upends [(v51-53)](# "ref")
-1. Remembering Mercy [(v54-55)](# "ref")
+## Magnificat of Mary
+1. My Spirit **Leaps** [(v46-49)](# "ref")
+1. The **Justice** of God [(v49-53)](# "ref")
+1. Remembering **Mercy** [(v54-55)](# "ref")
 
+>>>
++ Angel Gab to **Zech**:
+  + make **ready** for Lord
+  + a people prepared
++ Gab to **Mary**:
+  + holy, son of God
++ Mary visit **Liz**:
+  + John **leaps** in womb
++ in **response**, Mary,
+  + young woman swept up in
+  + confounding, momentus events
++ spoke this powerful, poignant **poem** 
+  + not **eloquence** of Mary, but
+  + wisdom of **HS**
 
 ---
 My soul **magnifies** the Lord, <br/>
-and my spirit **rejoices** in God my Savior,
+and my spirit **rejoices** in God my Savior
 
-for he has **looked** on <br/>
-the **humble** estate of his servant.
-
-[Luke 1:47-48a (ESV)](# "ref")
+[Luke 1:47 (ESV)](# "ref")
 
 >>>
 + "magn": to make **great**
@@ -34,6 +43,87 @@ the **humble** estate of his servant.
 + God **is** good
   + soul **recog** this fact
   + and **proclaims**
++ Heb **couplets**: rhyming ideas
+  + soul + spirit: **whole** essence
++ mag + **joy**: leap
+  + not **hype**, hysteria
+  + **response** to what God has done
++ Lord + **my** Saviour: 
+  + not just Lord of **creation**
+  + but **intervenes** in my life
++ **Why** rejoice?
+  + sentence **continues**
+  + beyond couplet ("enjambment")
+
+---
+for he has **looked** on <br/>
+the **humble** estate of his servant.
+
+[Luke 1:48a (ESV)](# "ref")
+
+>>>
++ Mary can call God **her** Saviour
+  + bc he has **seen** her state
++ **humble**: brought low
++ Mary from no special town/family
++ but also state of **people** of God
+  + invasion, conquered
+  + under authoritarian rule of Rome
++ political leaders **cruel**
+  + religious leaders **selfish**
++ Does God **see**?  Does He **care**?
++ 420yrs since Malachi
+  + several **generations**!
++ What happens when God is **silent**?
+
+---
+Where there is no prophetic **vision** <br/>
+the people cast off **restraint**, 
+
+but blessed is he who **keeps the law**.
+
+[Proverbs 29:18 (ESV)](# "ref")
+
+>>>
++ not "vision" as in corp plan
++ but **God's** plan
+  + revealed to us
++ when it's been so **long**
+  + since we've heard from God
++ society starts to **fall apart**
+  + "the people **perish**"
++ lose social **cohesion**
+  + tribalism, **nationalism**, strife
++ But we need to **keep** God's law:
+  + read, remember, treasure
+  + obey, uphold
++ This is what **Mary** was doing
+  + would have known about **Hagar**:
+
+---
+So she called the name <br/>
+of the Lord who spoke to her, <br/>
+“You are a **God of seeing**,”
+
+for she said, “Truly here <br/>
+I have seen him who **looks after** me.”
+
+[Genesis 16:13 (ESV)](# "ref")
+
+>>>
++ when **fleeing** mistreatment
+  + by her mistress Sarah
++ desperate, w/o resources
++ Angel of God **met** her
++ El-roi: the God who **sees**
++ Mary: God has **looked** on
+  + humble estate of servant
++ Not that God's plan would be **easy**:
+  + Hagar: sent back to Sarah
+  + Mary: social stigma, rl fiancee
++ Recognised **history**-making
+  + significance of this baby
+  + split BC/AD
 
 ---
 For behold, from now on  <br/>
@@ -45,6 +135,15 @@ has done **great** things for me,
 [Luke 1:48b-49a (ESV)](# "ref")
 
 >>>
++ gens afterward will mark this date
++ not bc **Mary's** piety, humility, purity
++ but **God's** mighty power
+  + displayed in her life
++ Great things **in** (or to) me
+  + not **following** my orders
++ Executing **His** wondrous plan
+  + I'm just **caught up** in it!
++ Addresses Him as **Mighty One**
 
 ---
 and **holy** is his name,
@@ -54,6 +153,14 @@ from generation to generation.
 [Luke 1:49b-50 (ESV)](# "ref")
 
 >>>
++ **Characteristics** of God:
+  + mighty, holy, merciful
++ Justice + mercy
++ Rl w/us: those who **fear** Him
+  + God's power, glory, holiness
+  + Our awe, humility, obedience
++ Pass on **fear** of Lord to next gen
+  + God extends **mercy** to next gen
 
 ---
 He has shown **strength** with his arm;
@@ -64,6 +171,20 @@ in the thoughts of their hearts;
 [Luke 1:51 (ESV)](# "ref")
 
 >>>
++ Lord's arm is not too **short** to save
++ "proud": **show beyond** what is warranted
+  + have a **little**, think it's worth a lot
++ "thoughts": **attitude**, way of thinking
+  + "heart": not seat of **emotions** but
+  + core of **being**: values, priorities
++ Not just **outward** boasting, but
+  + inner being truly **believes**
++ influence, possessions give them **value**
++ What does God **do** to such people?
+  + "scatter": disperse, toss in disarray
+  + like **confetti** in the wind
++ These **proud** in heart are addressed in
+  + Two **couplets** of contrast:
 
 ---
 he has **brought down** the mighty  <br/>
@@ -76,27 +197,163 @@ and the rich he has sent away **empty**.
 [Luke 1:52-53 (ESV)](# "ref")
 
 >>>
++ **high** to low, **full** to empty
++ "mighty": kings, w/auth + **power** (dynasty)
+  + "humble" (v48 servant): **low**
++ "rich": **full**, abundance
+  + "hungry": not just for **blessings**
++ filled w/ that which is **good**
+  + as Jesus, in ministry:
+
+---
+Blessed are you who are **hungry** now, <br/>
+for you shall be **satisfied**
+
+Woe to you who are **full** now, <br/>
+for you shall be **hungry**
+
+[Luke 6:21,25 (ESV)](# "ref")
+
+>>>
++ not just **wishful** thinking
+  + **telling** us what will happen
++ God **displays** strength of His arm
+  + accomplish what **man** cannot
++ No evidence Magnificat **banned** in 
+  + Guatemala or Argentina
++ but its message of **upending** social hier
+  + oft-quoted by **revolutionaries**
+  + "eat the rich"
++ Missing the key: **who** does it?
+  + Not the **rebels**
+  + not even the **people** of God
++ but **God** in His own plan:
+
+---
+For Jews demand **signs** and Greeks seek **wisdom**, 
+
+but we preach Christ **crucified**, <br/>
+a **stumbling block** to Jews and **folly** to Gentiles, 
+
+but to those who are **called**, both Jews and Greeks, <br/>
+Christ the **power** of God and the **wisdom** of God
+
+[1 Corinthians 1:22-24 (ESV)](# "ref")
+
+>>>
++ if looking for **power**:
+  + Christ on the **cross**
+  + seems like **weakness**
++ if looking for **wisdom**:
+  + leading by **dying**
+  + seems like **nonsensical**
++ But when God **calls** us,
+  + He grants power to **respond**
++ recog power + wisdom in cross:
+  + ultimate demonstration of
+  + justice + mercy
+
+---
+## Actions of God (in Lk 1:46-55)
++ **Looked** on our lowness (v48)
+  + **Done** great things in us (v49)
++ **Done** mighty things with His arm (v51)
+  + **Scattered** the proud (v51)
++ **Brought down** / exalted (v52)
+  + **Emptied** / filled (v53)
++ **Helped** + spoken (v54-55)
+
+>>>
++ Move from God's **power**
+  + and **judgment**
++ to His **compassion**
+  + and **relationship** w/us
 
 ---
 He has **helped** his servant Israel, <br/>
 in **remembrance** of his mercy,
 
-as he spoke to our **fathers**, <br/>
-to Abraham and to his offspring forever.
-
-[Luke 1:54-55 (ESV)](# "ref")
+[Luke 1:55 (ESV)](# "ref")
 
 >>>
++ Helper is not **subordinate**
+  + we are **weak**, need help
+  + God is **strong**, able to help
++ "servant": not slave, but
+  + **dependent** on God, as little child
++ Amid God's righteous **judgment**
+  + Upending **power** structures of world
++ When His hand is **heavy** upon us
+  + He **remembers** mercy
 
 ---
 O Lord, I have **heard** the report of you, <br/>
 and your work, O Lord, do I **fear**.
 
 In the midst of the years **revive** it; <br/>
-in the midst of the years make it **known**; <br/>
+in the midst of the years make it **known**;
+
 in **wrath** remember **mercy**.
 
 [Habakkuk 3:2 (ESV)](# "ref")
 
 >>>
-+ 
++ **Hab**, under violent corruption of Assyrians
+  + God's impending **judgment** via Babylon
++ Prayer in last ch
++ God **remembers** to show mercy to us
+
+---
+as he spoke to our **fathers**, <br/>
+to Abraham and to his **offspring** forever.
+
+[Luke 1:55 (ESV)](# "ref")
+
+>>>
++ through Abr's **seed** (sing.)
+  + all nations will be **blessed**
++ God's **promises** to prev **gen** long ago:
+  + 420yr since Mal, 1800yr since Abr
+  + we may **forget**, but He doesn't
++ His **blessing** + **mercy** are
+  + from **gen** to gen forever
+
+******
+My soul **magnifies** the Lord, <br/>
+and my spirit **rejoices** in God my Savior,
+
+for he has **looked** on  <br/>
+the humble estate of his servant.
+
+******
+For behold, from now on  <br/>
+all generations will call me **blessed**;
+
+for he who is **mighty**  <br/>
+has done **great** things for me, <br/>
+and **holy** is his name.
+
+******
+And his **mercy** is for those who fear him <br/>
+from generation to generation.
+
+He has shown **strength** with his arm;
+
+he has scattered the **proud**  <br/>
+in the thoughts of their hearts;
+
+******
+he has brought down the **mighty**  <br/>
+from their thrones <br/>
+and exalted those of **humble** estate;
+
+he has filled the **hungry** with good things, <br/>
+and the **rich** he has sent away empty.
+
+******
+He has **helped** his servant Israel, <br/>
+in **remembrance** of his mercy,
+
+as he spoke to our **fathers**, <br/>
+to Abraham and to his offspring forever
+
