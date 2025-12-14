@@ -6,16 +6,15 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I felt <br/> **forgotten** <br/> by God?
+# Have I felt <br/> **forgotten** by God?
 <!-- .element: class="r-fit-text" -->
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
-## Magnificat of Mary
-1. He **Sees** Us [(v46-48)](# "ref")
-1. He **Works** in Us [(v48-50)](# "ref")
-1. He **Scatters** the Proud [(v51-53)](# "ref")
-1. He **Remembers** Mercy [(v54-55)](# "ref")
+## Luke 1: Prelude to Christ's Birth
++ Annunciation of **John** [(1:5-25)](# "ref")
++ Annunciation of **Jesus** [(1:26-38)](# "ref")
++ **Magnificat** of Mary [(1:39-56)](# "ref")
++ Birth of **John** [(1:57-80)](# "ref")
 
 >>>
 + Angel Gab to **Zech**:
@@ -29,7 +28,17 @@
   + young woman swept up in
   + confounding, momentus events
 + spoke this powerful, poignant **poem** 
-  + not about **eloquence** of Mary, 
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+## Magnificat of Mary
+1. He **Sees** Us [(v46-48)](# "ref")
+1. He **Works** in Us [(v48-50)](# "ref")
+1. He **Scatters** the Proud [(v51-53)](# "ref")
+1. He **Remembers** Mercy [(v54-55)](# "ref")
+
+>>>
++ Focus not on **eloquence** of Mary, 
   + but wisdom of **HS**
 + We think of Mary as **meek**, passive
   + but she was not **oblivious**
@@ -109,16 +118,13 @@ but blessed is he who **keeps the law**.
 [Proverbs 29:18 (ESV)](# "ref")
 
 >>>
-+ not "vision" as in corp plan
-+ but **God's** plan
-  + revealed to us
-+ when it's been so **long**
-  + since we've heard from God
-+ society starts to **fall apart**
++ "vision": not corp plan but 
+  + **God's** plan revealed to us
++ Society starts to **fall apart**
   + "the people **perish**"
 + lose social **cohesion**:
   + tribalism, **nationalism**, strife
-+ But we need to **keep** God's law:
++ But we: **keep** God's law:
   + read, remember, treasure
   + obey, uphold
 + This is what **Mary** did:
@@ -246,18 +252,18 @@ in the thoughts of their hearts;
 
 >>>
 + Lord's arm is not too **short** to save
-+ "proud": **show beyond** what is warranted
-  + have a **little**, think it's worth a lot
-+ "thoughts": **attitude**, way of thinking
-  + "heart": not seat of **emotions** but
-  + core of **being**: values, priorities
++ "proud": **show beyond** warranted
+  + have a **little**, think worth a lot
++ "thoughts": **attitude**, way of think
+  + "heart": not seat of **emotions**
+  + core **being**: values, priorities
 + Not just **outward** boasting, but
   + inner being truly **believes**
-+ influence, possessions give them **value**
++ influence, possess. give them **value**
 + What does God **do** to such people?
   + "scatter": disperse, toss in disarray
   + like **confetti** in the wind
-+ These **proud** in heart are addressed in
++ These **proud** in heart are addressed
   + Two **couplets** of contrast:
 
 ---
@@ -307,7 +313,7 @@ and the rich he has sent away **empty**.
 >>>
 + Urban **myth**: Magnificat **banned** in 
   + Guatemala and Argentina
-+ but its message of **upending** social hier
++ but message of **upending** social hier
   + oft-quoted by **revolutionaries**
   + "eat the rich"
 + Missing the key: **who** does it?
@@ -343,7 +349,7 @@ Christ the **power** of God and the **wisdom** of God
 
 ---
 <!-- .slide: data-background="white" -->
-# How has God displayed His **power**?
+# How has God <br/> displayed His **power**?
 <!-- .element: class="r-fit-text" -->
 
 >>>
