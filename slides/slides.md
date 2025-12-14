@@ -1,6 +1,7 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-JgOeRuGD_Y4-dark_mtns.jpg") %> id="title" -->
 # Rejoice in the <br/> Mighty Saviour
 ## Luke 1:46-55
+[John Towner](https://unsplash.com/photos/JgOeRuGD_Y4 "caption")
 
 >>>
 
@@ -10,7 +11,7 @@
 <!-- .element: class="r-fit-text" -->
 
 ---
-## Luke 1: Prelude to Christ's Birth
+## Prelude to Christ's Birth
 + Annunciation of **John** [(1:5-25)](# "ref")
 + Annunciation of **Jesus** [(1:26-38)](# "ref")
 + **Magnificat** of Mary [(1:39-56)](# "ref")
@@ -30,7 +31,7 @@
 + spoke this powerful, poignant **poem** 
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-JgOeRuGD_Y4-dark_mtns.jpg") %> id="outline" class="outline" -->
 ## Magnificat of Mary
 1. He **Sees** Us [(v46-48)](# "ref")
 1. He **Works** in Us [(v48-50)](# "ref")
@@ -47,10 +48,12 @@
 + **Advent**: waiting for the Christ
 
 ---
+<!-- .slide: <%= bg("unsplash-9mzGpUpqUpw-girl_dancing.jpg") %> -->
 My soul **magnifies** the Lord, <br/>
 and my spirit **rejoices** in God my Savior
 
 [Luke 1:47 (ESV)](# "ref")
+[Gabby Orcutt](https://unsplash.com/photos/9mzGpUpqUpw "caption")
 
 >>>
 + Heb **couplets**: rhyming ideas
@@ -63,10 +66,12 @@ and my spirit **rejoices** in God my Savior
   + beyond couplet ("enjambment")
 
 ---
+<!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> -->
 for he has **looked** on <br/>
 the **humble** estate of his servant.
 
 [Luke 1:48a (ESV)](# "ref")
+[Alex Jones](https://unsplash.com/photos/p0W9Q9gei4g "caption")
 
 >>>
 + Mary can call God **her** Saviour
@@ -83,6 +88,7 @@ the **humble** estate of his servant.
 + Psalmist **cries out** in Ps94:
 
 ---
+<!-- .slide: <%= bg("unsplash-mKA3VavSuaI-dark_mtns.jpg") %> -->
 O Lord, **how long** shall the wicked, <br/>
 how long shall the wicked **exult**?
 
@@ -93,6 +99,7 @@ and they say, “The Lord does not **see**; <br/>
 the God of Jacob does not **perceive**.”
 
 [Psalm 94:3,6-7 (ESV)](# "ref")
+[Silverthorne, CO. Nathan Anderson](https://unsplash.com/photos/mKA3VavSuaI "caption")
 
 >>>
 + Does God **see**?  Does He **care**?
@@ -110,12 +117,14 @@ the God of Jacob does not **perceive**.”
 + What happens when God is **silent**?
 
 ---
+<!-- .slide: <%= bg("unsplash-1EbsMYrAu-s-bible_glasses.jpg") %> -->
 Where there is no prophetic **vision** <br/>
 the people cast off **restraint**, 
 
 but blessed is he who **keeps the law**.
 
 [Proverbs 29:18 (ESV)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/1EbsMYrAu-s "caption")
 
 >>>
 + "vision": not corp plan but 
@@ -132,6 +141,7 @@ but blessed is he who **keeps the law**.
 + She'd have remembered **Hagar**:
 
 ---
+<!-- .slide: <%= bg("unsplash-Ht5XmeuLyDg-camel_mtns_silh.jpg") %> -->
 So she called the name <br/>
 of the Lord who spoke to her, <br/>
 “You are a **God of seeing**,”
@@ -140,6 +150,7 @@ for she said, “Truly here <br/>
 I have seen him who **looks after** me.”
 
 [Genesis 16:13 (ESV)](# "ref")
+[Egypt. Mariam Soliman](https://unsplash.com/photos/Ht5XmeuLyDg "caption")
 
 >>>
 + when **fleeing** mistreatment
@@ -163,7 +174,7 @@ I have seen him who **looks after** me.”
   + **wait** for God's plan
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-JgOeRuGD_Y4-dark_mtns.jpg") %> class="outline" -->
 ## Magnificat of Mary
 1. He Sees Us [(v46-48)](# "ref")
 1. **He Works in Us** [(v48-50)](# "ref")
@@ -179,6 +190,7 @@ I have seen him who **looks after** me.”
   + split BC/AD
 
 ---
+<!-- .slide: <%= bg("unsplash-qqHJkcP1HjI-mtns_islands_water_norway.jpg") %> -->
 For behold, from now on  <br/>
 all generations will call me **blessed**;
 
@@ -186,6 +198,7 @@ for he who is **mighty**  <br/>
 has done **great** things for me,
 
 [Luke 1:48b-49a (ESV)](# "ref")
+[Reine, Norway. Jonas Geschke](https://unsplash.com/photos/qqHJkcP1HjI "caption")
 
 >>>
 + not bc **Mary's** piety, humility, purity
@@ -199,6 +212,7 @@ has done **great** things for me,
   + enjambment flows into next couplet:
 
 ---
+<!-- .slide: <%= bg("unsplash-qqHJkcP1HjI-mtns_islands_water_norway.jpg") %> -->
 and **holy** is his name, <br/>
 And his **mercy** is for those who **fear** him <br/>
 from generation to generation.
@@ -230,7 +244,7 @@ from generation to generation.
 + In what **way** does God show **might**?
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-JgOeRuGD_Y4-dark_mtns.jpg") %> class="outline" -->
 ## Magnificat of Mary
 1. He Sees Us [(v46-48)](# "ref")
 1. He Works in Us [(v48-50)](# "ref")
@@ -243,12 +257,14 @@ from generation to generation.
   + done **mighty** things in arm
 
 ---
+<!-- .slide: <%= bg("unsplash-6tfO1M8_gas-forest_mist_beams.jpg") %> -->
 He has shown **strength** with his arm;
 
 he has scattered the **proud**  <br/>
 in the thoughts of their hearts;
 
 [Luke 1:51 (ESV)](# "ref")
+[Chris Lawton](https://unsplash.com/photos/6tfO1M8_gas "caption")
 
 >>>
 + Lord's arm is not too **short** to save
@@ -267,6 +283,7 @@ in the thoughts of their hearts;
   + Two **couplets** of contrast:
 
 ---
+<!-- .slide: <%= bg("unsplash--6nDec_KT7U-crown.jpg") %> -->
 he has **brought down** the mighty  <br/>
 from their thrones <br/>
 and **exalted** those of humble estate;
@@ -275,6 +292,7 @@ he has **filled** the hungry with good things, <br/>
 and the rich he has sent away **empty**.
 
 [Luke 1:52-53 (ESV)](# "ref")
+[Sarah Penney](https://unsplash.com/photos/-6nDec_KT7U "caption")
 
 >>>
 + **high** to low, **full** to empty
@@ -286,6 +304,7 @@ and the rich he has sent away **empty**.
   + as Jesus, in ministry:
 
 ---
+<!-- .slide: <%= bg("unsplash-M4KpA7NC-l0-grapes_bowl.jpg") %> -->
 Blessed are you who are **hungry** now, <br/>
 for you shall be **satisfied**
 
@@ -293,6 +312,7 @@ Woe to you who are **full** now, <br/>
 for you shall be **hungry**
 
 [Luke 6:21,25 (ESV)](# "ref")
+[Neven Krcmarek, Popovec, Croatia](https://unsplash.com/photos/M4KpA7NC-l0 "caption")
 
 >>>
 + not just **wishful** thinking
@@ -301,6 +321,7 @@ for you shall be **hungry**
   + accomplish what **man** cannot
 
 ---
+<!-- .slide: <%= bg("unsplash--6nDec_KT7U-crown.jpg") %> -->
 he has **brought down** the mighty  <br/>
 from their thrones <br/>
 and **exalted** those of humble estate;
@@ -322,6 +343,7 @@ and the rich he has sent away **empty**.
 + but **God** in His own plan:
 
 ---
+<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
 For Jews demand **signs** <br/>
 and Greeks seek **wisdom**, 
 
@@ -333,6 +355,7 @@ both Jews and Greeks, <br/>
 Christ the **power** of God and the **wisdom** of God
 
 [1 Corinthians 1:22-24 (ESV)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/o--lefJNe0w "caption")
 
 >>>
 + if looking for **power**:
@@ -368,7 +391,7 @@ Christ the **power** of God and the **wisdom** of God
   + **emptying** himself
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-JgOeRuGD_Y4-dark_mtns.jpg") %> class="outline" -->
 ## Magnificat of Mary
 1. He Sees Us [(v46-48)](# "ref")
 1. He Works in Us [(v48-50)](# "ref")
@@ -402,10 +425,12 @@ Christ the **power** of God and the **wisdom** of God
   + and **relationship** w/us
 
 ---
+<!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
 He has **helped** his servant Israel, <br/>
 in **remembrance** of his mercy,
 
 [Luke 1:55 (ESV)](# "ref")
+[Geetanjal Khanna](https://unsplash.com/photos/8CwoHpZe3qE "caption")
 
 >>>
 + Helper is not **subordinate**
@@ -419,6 +444,7 @@ in **remembrance** of his mercy,
   + He **remembers** mercy
 
 ---
+<!-- .slide: <%= bg("unsplash-q7z-AUlHPaw-clouds.jpg") %> -->
 O Lord, I have **heard** the report of you, <br/>
 and your work, O Lord, do I **fear**.
 
@@ -428,6 +454,7 @@ in the midst of the years make it **known**;
 in **wrath** remember **mercy**.
 
 [Habakkuk 3:2 (ESV)](# "ref")
+[Łukasz Łada](https://unsplash.com/photos/q7z-AUlHPaw "caption")
 
 >>>
 + **Hab**, under violent corruption of Assyrians
@@ -436,6 +463,7 @@ in **wrath** remember **mercy**.
 + God **remembers** to show mercy to us
 
 ---
+<!-- .slide: <%= bg("unsplash-1DkWWN1dr-s-father_son_beach.jpg") %> -->
 as he spoke to our **fathers**, <br/>
 to Abraham and to his **offspring** forever.
 
@@ -501,5 +529,5 @@ as he spoke to our **fathers**, <br/>
 to Abraham and to his offspring forever
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-JgOeRuGD_Y4-dark_mtns.jpg") %> class="empty" -->
 
